@@ -1,10 +1,10 @@
 # mail-spoofer
 This is a mail spoofing script...
 
-Demo: https://rojangamingyt.github.io/mail-spoofer//
+Demo: https://mail-spoof.rojansapkota.com.np/
 
 # EDUCATIONAL PURPOSE ONLY 
 
 <a href="https://rojansapkota.com.np/">
-         <img alt="Image" src="https://image.thum.io/get/https://rojangamingyt.github.io/mail-spoofer/">
+         <img alt="Image" src="https://image.thum.io/get/https://mail-spoof.rojansapkota.com.np/">
       </a>
