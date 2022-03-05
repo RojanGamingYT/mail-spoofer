@@ -11,7 +11,7 @@ $random_hash = md5(date('r', time()));
 
 $headers = "From: " . $sender_name . "<" . $sender_email . ">";
 
-$headers .= "\r\nContent-Type: multipart/mixed; boundary=\"PHP-mixed-".$random_hash."\""; 
+$headers .= "\r\nContent-Type: text/html; boundary=\"PHP-mixed-".$random_hash."\""; 
 
 $message = preg_replace('/(?<!\r)\n/', "\r\n", $message);
 $headers = preg_replace('/(?<!\r)\n/', "\r\n", $headers);
