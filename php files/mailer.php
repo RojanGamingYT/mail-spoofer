@@ -10,7 +10,13 @@ $sender_email = $_POST['s_email'];
 $random_hash = md5(date('r', time())); 
 
 $headers = "From: " . $sender_name . "<" . $sender_email . ">";
+
 $headers .= "\r\nContent-Type: multipart/mixed; boundary=\"PHP-mixed-".$random_hash."\""; 
+
+$message = preg_replace('/(?<!\r)\n/', "\r\n", $message);
+$headers = preg_replace('/(?<!\r)\n/', "\r\n", $headers);
+$message = str_replace("\r\n", "\n", $message);
+$headers = str_replace("\r\n", "\n", $headers);
 
 $mail_sent = mail( $to, $subject, $message, $headers );
 
