@@ -1,5 +1,5 @@
 # mail-spoofer
-This is a mail spoofing script...
+This is a mail spoofing script....
 
 Demo: https://mail-spoof.rojansapkota.com.np/
 
