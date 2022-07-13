@@ -1,7 +1,6 @@
-# mail-spoofer
+# mail-spoofer - NOT WORKING GMAIL SPAM PREVENTION BLOCKES
 This is a mail spoofing script....
 
-Demo: https://mail-spoof.rojansapkota.com.np/
 
 # This project is for testing and educational purposes. I don't take any responsibility for what you do with this program.
 
