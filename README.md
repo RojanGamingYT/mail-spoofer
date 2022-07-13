@@ -1,7 +1,6 @@
-# mail-spoofer 
+# mail-spoofer - DISCONTINUED 
 
  NOT WORKING DUE TO SPAM PREVENTION 
-
 
 
 
