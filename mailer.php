@@ -32,7 +32,7 @@ if($mail_sent)
 <body>
 <script>
 	alert(\"Email Sended Successfully!\");
-	window.location.replace(\"https://mail-spoof.rojansapkota.com.np\");
+	window.location.replace(\"https://rojangamingyt.github.io/mail-spoofer/");
 </script>
 </body>
 </html>  ";
@@ -49,7 +49,7 @@ else {
 <body>
 <script>
 	alert(\"Failed to Send Email !\");
-	window.location.replace(\"https://mail-spoof.rojansapkota.com.np\");
+	window.location.replace(\"https://rojangamingyt.github.io/mail-spoofer/");
 </script>
 </body>
 </html>  ";
